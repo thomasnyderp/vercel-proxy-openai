@@ -7,6 +7,6 @@ Deloy transparent OpenAI Proxy
 
 OpenAI API url: https://api.openai.com/v1
 
-the proxy API url: https://xxxx.vercel.app/v1 , 
+and your proxy API url will be: https://xxxx.vercel.app/v1 , 
 
 if you assign your domain. It will be: https://you-domain/v1
